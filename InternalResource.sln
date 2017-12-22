@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "InternalResource", "InternalResource\InternalResource.sqlproj", "{3B624EA1-D807-45A0-AFE4-C2290B74C34B}"
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "V1.0.0.0", "InternalResource\V1.0.0.0.sqlproj", "{3B624EA1-D807-45A0-AFE4-C2290B74C34B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,5 +20,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6E3FED7-41F3-48CA-942F-1C52B9DCE5D2}
 	EndGlobalSection
 EndGlobal
